@@ -1,0 +1,47 @@
+.container{
+    background-color: rgb(85, 196, 233);
+    width: 1000px;
+    height: 500px;
+    margin-left: 15%;
+   position: absolute;
+   box-sizing: border-box;
+} 
+.s{
+    width: 400px;
+    height:300px;
+    background-color: white;
+      margin-left: 30%;
+      position: relative;
+      margin-top: 1%;
+      border-radius: 3%;
+}
+.a{
+    text-align: center;
+    font-size: xx-large;
+    color: black;
+    position: relative;
+  top: 4%;
+}
+input[type=text], input[type=password] {
+    width: 60%;
+   padding: 10px 12px;
+   text-align: center;
+   margin: 20px ;
+   margin-left: 18%;
+    display: inline-block;
+    background-color: rgb(158, 155, 155);
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  button {
+    background-color: #197ddb;
+    color: white;
+    padding: 13px 19px;
+    margin-left: 75px;
+   
+    border-radius: 3%;
+  
+    width: 60%;
+  }
+  
+ 
